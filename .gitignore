@@ -12,6 +12,8 @@ dist
 dist-ssr
 *.local
 
+!dist/assets/yemilgr-cv.pdf
+
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
